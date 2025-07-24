@@ -12,19 +12,6 @@
     ],
     "command": "npx"
   },
-      {
-    "name": "sangee2 test2",
-    "repoURL": "https://example.com/3",
-    "description": "Test 2",
-    "metadata": {
-      "categories": "Retrieval & Search"
-    },
-    "env": [],
-    "args": [
-      "--version"
-    ],
-    "command": "npx"
-  },
        {
     "name": "sangee2 test3",
     "repoURL": "https://example.com/3",
